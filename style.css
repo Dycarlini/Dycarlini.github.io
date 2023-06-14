@@ -1,9 +1,8 @@
 #soccer {
-    height: 300px;
-
+    height: 200px;
 }
 #soccerwrapper{
-    width: 60;
+    width: 60%;
     margin-right:auto;
     margin-left: auto;
 }
