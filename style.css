@@ -1,3 +1,10 @@
-#soccer{
-    height: 250px;
+#soccer {
+    height: 150px;
+    width: 50%;
+    margin-right:auto;
+    margin-left: auto;
+}
+
+h1 {
+    text-align: center;
 }
